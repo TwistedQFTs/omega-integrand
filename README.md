@@ -1,6 +1,6 @@
 # OmegaBook Mathematica Package
 
-This repository contains the Mathematica package `omegabook`, which is associated with computations done in the paper titled "Higher Operations in Perturbation Theory." 
+This repository contains the Mathematica package `omegabook`, which is associated with computations of Schwinger integrand done in the paper titled "Higher Operations in Perturbation Theory." 
 This work is part of a collaborative project. For more details, please refer to the [paper on arXiv](https://arxiv.org/abs/2403.13049).
 
 ## Installation
